@@ -1,1 +1,1 @@
-# sims2generator
+# s2generator
